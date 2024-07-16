@@ -1,3 +1,12 @@
+# Criando a aplicação
+```
+npx create-react-app github
+```
+# Adicionando pacotes. Axios para consumir a api do github. Style components para estilização
+```
+yarn add axios styled-components
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
